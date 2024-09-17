@@ -1,0 +1,28 @@
+body {
+    background-color: #FFF8E8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: white;
+    background-color: #674636;
+}
+
+h2 {
+    color: white;
+    background-color: #AAB396;
+}
+
+.menu {
+    background-color: #F7EED3;
+    color: black;
+    font-size: 20px;
+    list-style-type:circle;
+}
+
+a {
+    color: #674636;
+    font-weight: 500;
+    text-decoration: none;
+}
+
